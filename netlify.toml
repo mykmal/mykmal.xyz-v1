@@ -1,0 +1,17 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.81.0"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+# Redirect default Netlify subdomain to primary domain
+[[redirects]]
+  from = "https://mykmal.netlify.app/*"
+  to = "https://mykmal.xyz/:splat"
+  status = 301
+  force = true
