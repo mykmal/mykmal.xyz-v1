@@ -71,6 +71,10 @@ params:
           url: "https://github.com/MykMal"
         - name: linkedin
           url: "https://www.linkedin.com/in/mykmal"
+        - name: instagram
+          url: "https://www.instagram.com/myk_mal"
+        - name: facebook
+          url: "https://www.facebook.com/mykhaylo.malakhov"
         - name: email
           url: "mailto:mmalakhov@outlook.com"
 
