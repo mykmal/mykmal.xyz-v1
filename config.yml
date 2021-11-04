@@ -119,9 +119,9 @@ menu:
       name: Bio
       url: /bio/
       weight: 10
-    - identifier: publications
-      name: Publications
-      url: /publications/
+    - identifier: papers
+      name: Papers
+      url: /papers/
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
