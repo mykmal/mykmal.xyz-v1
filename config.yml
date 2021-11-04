@@ -70,14 +70,12 @@ params:
     socialIcons:
       - name: orcid
         url: "https://orcid.org/0000-0002-6856-3913"
+      - name: googlescholar
+        url: "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
       - name: github
         url: "https://github.com/MykMal"
       - name: linkedin
         url: "https://www.linkedin.com/in/mykmal"
-      - name: instagram
-        url: "https://www.instagram.com/myk_mal"
-      - name: facebook
-        url: "https://www.facebook.com/mykhaylo.malakhov"
       - name: email
         url: "mailto:malak039@umn.edu"
 

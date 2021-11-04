@@ -2,10 +2,6 @@
 hidemeta: true
 ---
 
-Alternatively, you can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl).
-
----
-
 ### Peer-reviewed papers
 
 * **Mykhaylo M. Malakhov** and Shandelle M. Henson (2021+). "Periodic matrix models for seabird population dynamics: the impact of stage structure." In preparation.
