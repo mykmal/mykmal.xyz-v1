@@ -9,16 +9,12 @@ hidemeta: true
 ### Peer-reviewed papers
 
 1. 
-
     > "Periodic matrix models for seabird population dynamics: the impact of stage structure."  
     > **Mykhaylo M. Malakhov**[\*] and Shandelle M. Henson (2021+). In preparation.
-
 1. 
-
     > "Governance structure affects transboundary disease management under alternative objectives."  
     > Julie C. Blackwood[\*], **Mykhaylo M. Malakhov**, Junyan Duan[+], Jordan J. Pellett[+], Ishan S. Phadke[+], Suzanne Lenhart, Charles Sims, and Katriona Shea (2021). *BMC Public Health*, vol. 21, 1782.  
     > doi: [10.1186/s12889-021-11797-3](https://doi.org/10.1186/s12889-021-11797-3) | [[pdf]](https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-021-11797-3.pdf)
-
 1. 
     > "Management efficacy in a metapopulation model of white-nose syndrome."  
     > Junyan Duan[+], **Mykhaylo M. Malakhov**[+][\*], Jordan J. Pellett[+], Ishan S. Phadke[+], Jackson Barber, and Julie C. Blackwood (2021). *Natural Resource Modeling*, vol. 34, no. 3, e12304.  
