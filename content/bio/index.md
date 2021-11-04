@@ -1,7 +1,7 @@
 ---
 hidemeta: true
 cover:
-    image: "MykMal-background.jpg"
+    image: "MykMal-background-crop.jpg"
     alt: "lighthouse photo"
 #    caption: "<text>"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
