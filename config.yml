@@ -42,16 +42,16 @@ params:
   showtoc: false
   tocopen: false
 
-assets:
-  disableHLJS: false # to disable highlight.js
-  disableFingerprinting: false
+  assets:
+    disableHLJS: false # to disable highlight.js
+    disableFingerprinting: false
     
-  # I added custom HTML code for the favicon in head.html
-#  favicon: "/favicon.ico"
-#  favicon16x16:  "/favicon-16x16.png"
-#  favicon32x32:  "/favicon-32x32.png"
-#  apple_touch_icon:  "/apple-touch-icon.png"
-#  safari_pinned_tab:  "/safari-pinned-tab.svg"
+    # I added custom HTML code for the favicon in head.html
+#    favicon: "/favicon.ico"
+#    favicon16x16:  "/favicon-16x16.png"
+#    favicon32x32:  "/favicon-32x32.png"
+#    apple_touch_icon:  "/apple-touch-icon.png"
+#    safari_pinned_tab:  "/safari-pinned-tab.svg"
 
   label:
     text: "Mykhaylo M. Malakhov"
@@ -73,6 +73,11 @@ assets:
 #      - name: Tags
 #        url: tags
 
+  # home-info mode
+#  homeInfoParams:
+#    Title: "Hi there \U0001F44B"
+#    Content: Welcome to my blog
+
   socialIcons:
     - name: orcid
       url: "https://orcid.org/0000-0002-6856-3913"
@@ -84,11 +89,6 @@ assets:
       url: "https://www.linkedin.com/in/mykmal"
     - name: email
       url: "mailto:malak039@umn.edu"
-
-  # home-info mode
-#  homeInfoParams:
-#    Title: "Hi there \U0001F44B"
-#    Content: Welcome to my blog
 
 #  analytics:
 #    google:
