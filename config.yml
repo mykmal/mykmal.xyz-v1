@@ -1,5 +1,5 @@
 baseURL: "https://mykmal.xyz"
-title: Mykhaylo M. Malakhov
+title: "Mykhaylo M. Malakhov"
 paginate: 5
 theme: PaperMod
 
@@ -8,11 +8,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
-
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 # enable HTML in Markdown
 markup:
@@ -21,103 +19,105 @@ markup:
       unsafe: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Mykhaylo M. Malakhov
-    description: "The personal website of Mykhaylo M. Malakhov: a statistician, genomics researcher, and machine learning engineer at the University of Minnesota."
-    author: Mykhaylo M. Malakhov
-    # author: ["Me", "You"] # multiple authors
-    images: ["static/MykMal.jpg"]
-    DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
+  env: production
+  title: "Mykhaylo M. Malakhov"
+  description: "The personal website of Mykhaylo M. Malakhov: a statistician, genomics researcher, and machine learning engineer at the University of Minnesota."
+  author: "Mykhaylo M. Malakhov"
+#  author: ["Me", "You"] # multiple authors
+  images: "MykMal.jpg"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+  
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
-    ShowReadingTime: false
-    ShowShareButtons: false
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: false
-    hidemeta: false
-    hideSummary: false
-    showtoc: false
-    tocopen: false
+assets:
+  disableHLJS: false # to disable highlight.js
+  disableFingerprinting: false
+    
+  # I added custom HTML code for the favicon in head.html
+#  favicon: "/favicon.ico"
+#  favicon16x16:  "/favicon-16x16.png"
+#  favicon32x32:  "/favicon-32x32.png"
+#  apple_touch_icon:  "/apple-touch-icon.png"
+#  safari_pinned_tab:  "/safari-pinned-tab.svg"
 
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: "/favicon.ico"
-        favicon16x16:  "/favicon-16x16.png"
-        favicon32x32:  "/favicon-32x32.png"
-        apple_touch_icon:  "/apple-touch-icon.png"
-        safari_pinned_tab:  "/safari-pinned-tab.svg"
+  label:
+    text: "Mykhaylo M. Malakhov"
+    icon: "M3.png"
+    iconHeight: 35
 
-    label:
-        text: "Mykhaylo M. Malakhov"
-        icon: /apple-touch-icon.png
-        iconHeight: 35
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: "Mykhaylo M. Malakhov"
+    subtitle: "Statistician, genomics researcher, and machine learning engineer."
+    imageUrl: "MykMal.jpg"
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    imageTitle: MykMal
+#    buttons:
+#      - name: Posts
+#        url: posts
+#      - name: Tags
+#        url: tags
 
-    # profile-mode
-    profileMode:
-        enabled: true
-        title: "Mykhaylo M. Malakhov"
-        subtitle: "Statistician, genomics researcher, and machine learning engineer."
-        imageUrl: "MykMal.jpg"
-        imageWidth: 200 # custom size
-        imageHeight: 200 # custom size
-        imageTitle: MykMal
-#        buttons:
-#          - name: Posts
-#            url: posts
-#          - name: Tags
-#            url: tags
+  socialIcons:
+    - name: orcid
+      url: "https://orcid.org/0000-0002-6856-3913"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
+    - name: github
+      url: "https://github.com/MykMal"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mykmal"
+    - name: email
+      url: "mailto:malak039@umn.edu"
 
-    socialIcons:
-      - name: orcid
-        url: "https://orcid.org/0000-0002-6856-3913"
-      - name: googlescholar
-        url: "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
-      - name: github
-        url: "https://github.com/MykMal"
-      - name: linkedin
-        url: "https://www.linkedin.com/in/mykmal"
-      - name: email
-        url: "mailto:malak039@umn.edu"
+  # home-info mode
+#  homeInfoParams:
+#    Title: "Hi there \U0001F44B"
+#    Content: Welcome to my blog
 
-    # home-info mode
-#    homeInfoParams:
-#      Title: "Hi there \U0001F44B"
-#      Content: Welcome to my blog
+#  analytics:
+#    google:
+#      SiteVerificationTag: "XYZabc"
+#    bing:
+#      SiteVerificationTag: "XYZabc"
+#    yandex:
+#      SiteVerificationTag: "XYZabc"
 
-#    analytics:
-#      google:
-#        SiteVerificationTag: "XYZabc"
-#      bing:
-#        SiteVerificationTag: "XYZabc"
-#      yandex:
-#        SiteVerificationTag: "XYZabc"
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
-    cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: false # hide on single page
+#  editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 
-#    editPost:
-#      URL: "https://github.com/<path_to_repo>/content"
-#      Text: "Suggest Changes" # edit text
-#      appendFilePath: true # to append file path to Edit link
-
-    # for search
-    # https://fusejs.io/api/options.html
-#    fuseOpts:
-#      isCaseSensitive: false
-#      shouldSort: true
-#      location: 0
-#      distance: 1000
-#      threshold: 0.4
-#      minMatchCharLength: 0
-#      keys: ["title", "permalink", "summary", "content"] # can be less but not more than shown in list
+  # for search
+  # https://fusejs.io/api/options.html
+#  fuseOpts:
+#    isCaseSensitive: false
+#    shouldSort: true
+#    location: 0
+#    distance: 1000
+#    threshold: 0.4
+#    minMatchCharLength: 0
+#    keys: ["title", "permalink", "summary", "content"] # can be less but not more than shown in list
 
 menu:
   main:
@@ -129,6 +129,7 @@ menu:
       name: Papers
       url: /papers/
       weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
