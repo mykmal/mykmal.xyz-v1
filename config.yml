@@ -24,7 +24,7 @@ params:
   description: "The personal website of Mykhaylo M. Malakhov: a statistician, genomics researcher, and machine learning engineer at the University of Minnesota."
   author: "Mykhaylo M. Malakhov"
 #  author: ["Me", "You"] # multiple authors
-  images: "MykMal.jpg"
+  images: "/MykMal.jpg"
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -55,7 +55,7 @@ params:
 
   label:
     text: "Mykhaylo M. Malakhov"
-    icon: "M3.png"
+    icon: "/M3.png"
     iconHeight: 35
 
   # profile-mode
@@ -63,7 +63,7 @@ params:
     enabled: true
     title: "Mykhaylo M. Malakhov"
     subtitle: "Statistician, genomics researcher, and machine learning engineer."
-    imageUrl: "MykMal.jpg"
+    imageUrl: "/MykMal.jpg"
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
     imageTitle: MykMal
