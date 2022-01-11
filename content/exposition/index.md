@@ -2,7 +2,7 @@
 hidemeta: true
 ---
 
-I have learned a great deal by reading slides and tutorials on the websites of various faculty and graduate students (perhaps more than I learned from class lectures, I dare say). In hopes that my own expository content might similarly prove useful to others, I share it here.
+I have learned a great deal by reading slides and tutorials that I found on the websites of faculty and other graduate students. In hopes that my own expository content might similarly prove useful to others, I share it here.
 
 ---
 

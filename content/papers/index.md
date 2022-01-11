@@ -9,8 +9,8 @@ hidemeta: true
 ### Peer-reviewed papers
 
 1. 
-    > "Accounting for non-linear effects of gene expression identifies additional genes in transcriptome-wide association studies."  
-    > Zhaotong Lin, Haoran Xue, **Mykhaylo M. Malakhov**, Katherine Knutson, and Wei Pan[\*]. In revision.
+    > "Accounting for non-linear effects of gene expression identifies additional associated genes in transcriptome-wide association studies."  
+    > Zhaotong Lin, Haoran Xue, **Mykhaylo M. Malakhov**, Katherine Knutson, and Wei Pan[\*]. To appear in *Human Molecular Genetics*.
 1. 
     > "Governance structure affects transboundary disease management under alternative objectives."  
     > Julie C. Blackwood[\*], **Mykhaylo M. Malakhov**, Junyan Duan[+], Jordan J. Pellett[+], Ishan S. Phadke[+], Suzanne Lenhart, Charles Sims, and Katriona Shea (2021). *BMC Public Health*, vol. 21, 1782.  
