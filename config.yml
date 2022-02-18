@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true
     title: "Mykhaylo M. Malakhov"
-    subtitle: "Biostatistics PhD Student"
+    subtitle: "Biostatistics PhD Student at Minnesota"
     imageUrl: "/MykMal.jpg"
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
