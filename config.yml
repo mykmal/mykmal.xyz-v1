@@ -21,7 +21,7 @@ markup:
 params:
   env: production
   title: "Mykhaylo M. Malakhov"
-  description: "The personal website of Mykhaylo M. Malakhov: a statistician, genomics researcher, and machine learning engineer at the University of Minnesota."
+  description: "I am a PhD student at the University of Minnesota, working on statistical methods for genetics and molecular biology."
   author: "Mykhaylo M. Malakhov"
 #  author: ["Me", "You"] # multiple authors
   images: "/MykMal.jpg"
@@ -62,11 +62,11 @@ params:
   profileMode:
     enabled: true
     title: "Mykhaylo M. Malakhov"
-    subtitle: "Statistician, genomics researcher, and machine learning engineer."
+    subtitle: "Biostatistics PhD Student"
     imageUrl: "/MykMal.jpg"
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
-    imageTitle: MykMal
+    imageTitle: "profile picture"
 #    buttons:
 #      - name: Posts
 #        url: posts
@@ -82,7 +82,7 @@ params:
     - name: email
       url: "mailto:malak039@umn.edu"
     - name: twitter
-      url: "https://twitter.com/mykmal"
+      url: "https://twitter.com/MykMal"
     - name: github
       url: "https://github.com/MykMal"
     - name: googlescholar

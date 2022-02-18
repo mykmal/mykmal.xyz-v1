@@ -1,4 +1,4 @@
-# MykMal's Personal Website
+# Mykhaylo's personal website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c991dde-28e3-4553-b6ae-89ad07613d84/deploy-status)](https://app.netlify.com/sites/mykmal/deploys)
 
