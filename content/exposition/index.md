@@ -9,6 +9,9 @@ I have learned a great deal by reading slides and tutorials that I found on the 
 ### Paper summaries and reviews
 
 - 
+    > "Quantifying genetic effects on disease mediated by assayed gene expression levels"  
+    > [Presentation slides](MESC_2022.pdf)
+- 
     > "An introduction to structural equation modeling in genetics"  
     > [Written report](Genomic_SEM_report_2021.pdf) and [accompanying slides](Genomic_SEM_slides_2021.pdf)
 - 
@@ -23,3 +26,5 @@ I have learned a great deal by reading slides and tutorials that I found on the 
 - 
     > "Predicting Length of Stay From an Electronic Patient Record System: a Primary Total Knee Replacement Example" and "Association of Short-term Exposure to Air Pollution With Mortality in Older Adults"  
     > [Presentation slides](Final_Presentation_Regression2020.pdf)
+    
+    
