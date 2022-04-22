@@ -83,6 +83,8 @@ params:
       url: "mailto:malak039@umn.edu"
     - name: twitter
       url: "https://twitter.com/MykMal"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/mykmal/"
     - name: github
       url: "https://github.com/MykMal"
     - name: googlescholar
