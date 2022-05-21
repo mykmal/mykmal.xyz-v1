@@ -10,15 +10,15 @@ hidemeta: true
 
 1. 
     > "Accounting for nonlinear effects of gene expression identifies additional associated genes in transcriptome-wide association studies."  
-    > Zhaotong Lin, Haoran Xue, **Mykhaylo M. Malakhov**, Katherine Knutson, and Wei Pan[\*] (2022). *Human Molecular Genetics*, in press.  
-    > doi: [10.1093/hmg/ddac015](https://doi.org/10.1093/hmg/ddac015) | [[pdf]](https://academic.oup.com/hmg/advance-article-pdf/doi/10.1093/hmg/ddac015/42504194/ddac015.pdf)
+    > Zhaotong Lin, Haoran Xue, **Mykhaylo M. Malakhov**, Katherine A. Knutson, and Wei Pan[\*] (2022). *Human Molecular Genetics*, in press.  
+    > doi: [10.1093/hmg/ddac015](https://doi.org/10.1093/hmg/ddac015) | [[pdf]](https://academic.oup.com/hmg/advance-article-pdf/doi/10.1093/hmg/ddac015/43370538/ddac015.pdf)
 1. 
     > "Governance structure affects transboundary disease management under alternative objectives."  
-    > Julie C. Blackwood[\*], **Mykhaylo M. Malakhov**, Junyan Duan[+], Jordan J. Pellett[+], Ishan S. Phadke[+], Suzanne Lenhart, Charles Sims, and Katriona Shea (2021). *BMC Public Health*, vol. 21, no. 1, 1782.  
+    > Julie C. Blackwood[\*], **Mykhaylo M. Malakhov**, Junyan Duan[+], Jordan J. Pellett[+], Ishan S. Phadke[+], Suzanne Lenhart, Charles Sims, and Katriona Shea (2021). *BMC Public Health* vol. 21, no. 1782.  
     > doi: [10.1186/s12889-021-11797-3](https://doi.org/10.1186/s12889-021-11797-3) | [[pdf]](https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-021-11797-3.pdf)
 1. 
     > "Management efficacy in a metapopulation model of white-nose syndrome."  
-    > Junyan Duan[+], **Mykhaylo M. Malakhov**[+][\*], Jordan J. Pellett[+], Ishan S. Phadke[+], Jackson Barber, and Julie C. Blackwood (2021). *Natural Resource Modeling*, vol. 34, no. 3, e12304.  
+    > Junyan Duan[+], **Mykhaylo M. Malakhov**[+][\*], Jordan J. Pellett[+], Ishan S. Phadke[+], Jackson Barber, and Julie C. Blackwood (2021). *Natural Resource Modeling* vol. 34, no. 3, p. e12304.  
     > doi: [10.1111/nrm.12304](https://doi.org/10.1111/nrm.12304) | [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/nrm.12304) | [[code]](https://github.com/MykMal/wns-management)
 
 ### Other publications
@@ -31,3 +31,4 @@ hidemeta: true
     > "Managing White-nose Syndrome in Bats: A Spatially Dynamic Modelling Approach."  
     > **Mykhaylo M. Malakhov** (2019). Honors Thesis, Andrews University.  
     > doi: [10.32597/honors/216](https://doi.org/10.32597/honors/216) | [[pdf]](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1217&context=honors)
+

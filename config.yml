@@ -8,32 +8,32 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+#googleAnalytics: UA-123-45
+
 minify:
   disableXML: true
   minifyOutput: true
 
-# enable HTML in Markdown
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
 params:
-  env: production
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Mykhaylo M. Malakhov"
   description: "I am a PhD student at the University of Minnesota, working on statistical methods for genetics and molecular biology."
+  keywords: [statistical genetics, functional genomics, causal inference]
   author: "Mykhaylo M. Malakhov"
-#  author: ["Me", "You"] # multiple authors
-  images: "/MykMal.jpg"
+  # author: ["Me", "You"] # multiple authors
+  images: ["/MykMal.jpg"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
-  
+
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -43,15 +43,15 @@ params:
   tocopen: false
 
   assets:
-    disableHLJS: false # to disable highlight.js
-    disableFingerprinting: false
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
     
     # I added custom HTML code for the favicon in head.html
-#    favicon: "/favicon.ico"
-#    favicon16x16:  "/favicon-16x16.png"
-#    favicon32x32:  "/favicon-32x32.png"
-#    apple_touch_icon:  "/apple-touch-icon.png"
-#    safari_pinned_tab:  "/safari-pinned-tab.svg"
+#    favicon: "<link / abs url>"
+#    favicon16x16: "<link / abs url>"
+#    favicon32x32: "<link / abs url>"
+#    apple_touch_icon: "<link / abs url>"
+#    safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Mykhaylo M. Malakhov"
@@ -60,12 +60,12 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true
+    enabled: true # needs to be explicitly set
     title: "Mykhaylo M. Malakhov"
     subtitle: "Biostatistics PhD Student at Minnesota"
     imageUrl: "/MykMal.jpg"
-    imageWidth: 200 # custom size
-    imageHeight: 200 # custom size
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: "profile picture"
 #    buttons:
 #      - name: Posts
@@ -84,7 +84,7 @@ params:
     - name: twitter
       url: "https://twitter.com/MykMal"
     - name: linkedin
-      url: "https://www.linkedin.com/in/mykmal/"
+      url: "https://www.linkedin.com/in/mykmal"
     - name: github
       url: "https://github.com/MykMal"
     - name: googlescholar
@@ -119,7 +119,7 @@ params:
 #    distance: 1000
 #    threshold: 0.4
 #    minMatchCharLength: 0
-#    keys: ["title", "permalink", "summary", "content"] # can be less but not more than shown in list
+#    keys: ["title", "permalink", "summary", "content"]
 
 menu:
   main:
@@ -127,13 +127,13 @@ menu:
       name: Bio
       url: /bio/
       weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 20
     - identifier: papers
       name: Papers
       url: /papers/
-      weight: 20
-    - identifier: exposition
-      name: Exposition
-      url: /exposition/
       weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
