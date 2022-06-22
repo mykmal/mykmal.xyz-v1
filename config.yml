@@ -23,7 +23,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Mykhaylo M. Malakhov"
-  description: "I am a PhD student at the University of Minnesota, working on statistical methods for genetics and molecular biology."
+  description: "I am a PhD student at the University of Minnesota School of Public Health, where I work on statistical methods for human genetics and molecular biology."
   keywords: [statistical genetics, functional genomics, causal inference]
   author: "Mykhaylo M. Malakhov"
   # author: ["Me", "You"] # multiple authors
