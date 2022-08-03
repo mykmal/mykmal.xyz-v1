@@ -24,7 +24,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Mykhaylo M. Malakhov"
   description: "I am a PhD student at the University of Minnesota School of Public Health, where I work on statistical methods for human genetics and molecular biology."
-  keywords: [statistical genetics, functional genomics, causal inference]
+  keywords: [statistical genetics, computational genomics, genetic epidemiology]
   author: "Mykhaylo M. Malakhov"
   # author: ["Me", "You"] # multiple authors
   images: ["/MykMal.jpg"]
@@ -68,7 +68,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Mykhaylo M. Malakhov"
-    subtitle: "Biostatistics PhD Student at Minnesota"
+    subtitle: "Biostatistics PhD Student at the University of Minnesota"
     imageUrl: "/MykMal.jpg"
     imageWidth: 200
     imageHeight: 200
@@ -93,10 +93,10 @@ params:
       url: "https://www.linkedin.com/in/mykmal"
     - name: github
       url: "https://github.com/MykMal"
-    - name: googlescholar
-      url: "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
     - name: orcid
       url: "https://orcid.org/0000-0002-6856-3913"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=e5Q7sMQAAAAJ&hl"
 
 #  analytics:
 #    google:
