@@ -98,10 +98,10 @@ params:
 #        Text: "Suggest Changes" # edit text
 #        appendFilePath: true # to append file path to Edit link
 
-     label:
-         text: "Mykhaylo M. Malakhov"
-         icon: "M3.png"
-         iconHeight: 35
+    label:
+        text: "Mykhaylo M. Malakhov"
+        icon: "M3.png"
+        iconHeight: 35
 
     # analytics:
     #     google:
