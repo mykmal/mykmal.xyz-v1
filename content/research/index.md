@@ -2,7 +2,7 @@
 hidemeta: true
 ---
 
-*My research interests span many applications of statistics in genetics and molecular biology, but I especially focus on studying the genetic basis of human diseases. By developing probabilistic and computational methods that synthesize genomic information with other omic data sets, I seek to uncover how genetic variability impacts disease pathways. My ultimate goal is to solve the most pressing complex diseases, including cancer and dementia.*
+*My research interests span many applications of statistics in genetics and molecular biology, but I especially focus on studying the genetic basis of human diseases. By developing probabilistic and computational methods that synthesize genomic information with other omic data sets, I seek to uncover how genetic variability impacts disease pathways. My ultimate goal is to help solve the most pressing complex diseases, including cancer and dementia.*
 
 ### Discovering disease-associated loci
 
@@ -10,9 +10,9 @@ Genome-wide association studies (GWAS) scan the entire genome in search of genet
 
 ### Understanding the role of gene regulation
 
-<img src="nonlinear_TWAS.jpeg" alt="nonlinear TWAS results" width="500"/>
+<img src="DRAB_overview.png" alt="Overview of DRAB" width="500"/>
 
-Although an individual's genetic information remains constant throughout their lifetime, the effects of any given gene may vary depending on how it is regulated. Thus, an understanding of the various genetic and epigenetic mechanisms that regulate gene expression is essential for a complete picture of the genomic architecture of human diseases. My research aims to elucidate these mechanisms and their roles in causing disease. For example, I am currently developing a method that will identify genes with tissue-specific patterns of regulation.
+Although every cell in your body contains exactly the same DNA sequences, the effects of any given gene may vary depending on how it is regulated. Thus, an understanding of the various genetic and epigenetic mechanisms that regulate gene expression is essential for a complete picture of the genomic architecture of human diseases. My research aims to elucidate these mechanisms and their roles in causing disease. Notably, I proposed and developed a method called [DRAB (Differential Regulation Analysis by Bootstrapping)](https://github.com/MykMal/drab) that can identify genes whose patterns of genetic regulation are significantly different between two tissues or other biological contexts.
 
 I am also interested in transcriptome-wide association studies (TWAS), which aim to identify disease-causing genes by leveraging predictive models of genetic regulation. In a [recent paper](https://doi.org/10.1093/hmg/ddac015), my coauthors and I extended TWAS to account for nonlinear effects of gene expression and showed that our new method identifies genes missed by standard TWAS approaches.
 

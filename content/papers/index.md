@@ -9,6 +9,9 @@ hidemeta: true
 ### Peer-reviewed papers
 
 1. 
+    > "Identifying genes with tissue-specific patterns of genetic regulation."  
+    > **Mykhaylo M. Malakhov**, Ben Dai, Xiaotong T. Shen, and Wei Pan[\*] (2022+). *In preparation*.
+1. 
     > "Accounting for nonlinear effects of gene expression identifies additional associated genes in transcriptome-wide association studies."  
     > Zhaotong Lin, Haoran Xue, **Mykhaylo M. Malakhov**, Katherine A. Knutson, and Wei Pan[\*] (2022). *Human Molecular Genetics* vol. 31, no. 14, pp. 2462-70.  
     > doi: [10.1093/hmg/ddac015](https://doi.org/10.1093/hmg/ddac015) | [[pdf]](https://academic.oup.com/hmg/article-pdf/31/14/2462/45050292/ddac015.pdf) | [[code]](https://github.com/ZhaotongL/TWAS-LQ)

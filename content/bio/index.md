@@ -15,8 +15,7 @@ For additional details please see my short [resume](/mykmal-resume.pdf) or my co
 
 ### Personal
 
-Right now most of my off-work time is occupied, in one way or another, by Russia's horrific invasion of Ukraine. I was born in Kyiv and still retain close ties to my home country, so this war feels especially painful for me. Please continue to support Ukraine in every way you can. If you are in the Twin Cities area, I encourage you to check out [www.standwithukrainemn.com](https://www.standwithukrainemn.com/) for local events and advocacy opportunities.  
-Слава Україні!
+Right now much of my off-work time is occupied, in one way or another, by Russia's horrific invasion of Ukraine. I was born in Kyiv and still retain close ties to my home country, so this war feels especially painful for me. Please continue to support Ukraine in every way you can. If you are in the Twin Cities area, I encourage you to check out [www.standwithukrainemn.com](https://www.standwithukrainemn.com/) for local events and advocacy opportunities. Слава Україні!
 
 For leisure I enjoy [playing chess](https://www.chess.com/member/mykmal) (albeit rather poorly) and spending time in the great outdoors. Both with my wonderful girlfriend, of course. Since the pandemic began I have also embraced a digital nomad lifestyle, never staying in one state for more than several months and often alternating between America's west and east coasts.
 
