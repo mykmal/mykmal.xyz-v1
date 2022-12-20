@@ -36,7 +36,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "I am a biostatistics PhD student at the University of Minnesota School of Public Health, with research interests in statistical genetics and computational biology."
+    description: "I am a biostatistics PhD student at the University of Minnesota Twin Cities, with research interests in statistical genetics and machine learning."
     author: "Mykhaylo M. Malakhov"
     # author: ["Me", "You"] # multiple authors
 
@@ -108,12 +108,12 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-    #    disableHLJS: true
-    #     favicon: "favicon.ico"
-    #     favicon16x16: "favicon-16x16.png"
-    #     favicon32x32: "favicon-32x32.png"
-    #     apple_touch_icon: "apple-touch-icon.png"
-    #     safari_pinned_tab: "safari-pinned-tab.svg"
+        disableHLJS: true
+    #    favicon: "favicon.ico"
+    #    favicon16x16: "favicon-16x16.png"
+    #    favicon32x32: "favicon-32x32.png"
+    #    apple_touch_icon: "apple-touch-icon.png"
+    #    safari_pinned_tab: "safari-pinned-tab.svg"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
@@ -164,4 +164,3 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
-
