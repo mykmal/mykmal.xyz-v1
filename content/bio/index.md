@@ -11,7 +11,7 @@ This summer I will be working as a Human Genetics Intern within the Discovery Ge
 
 Previously I completed a BS at Andrews University with a major in Mathematics and a minor in Computing, during which time I augmented my experience with endeavors such as bringing solar power to a remote school in Madagascar and studying "maths" in Budapest. I am also a [Goldwater Scholar](https://www.andrews.edu/agenda/49499/) and have done undergraduate research internships (REUs) at Williams College and UCLA's Institute for Pure & Applied Mathematics.
 
-For additional details please see my short [resume](/mykmal-resume.pdf) or my comprehensive [CV](/mykmal-cv.pdf).
+For additional details please see my short [resume](mykmal-resume.pdf) or my comprehensive [CV](mykmal-cv.pdf).
 
 **Right now much of my off-work time is occupied, in one way or another, by Russia's horrific invasion of Ukraine. I was born in Kyiv and still retain close ties to my home country, so this war feels especially painful for me. Please continue to support Ukraine in every way that you can. Слава Україні!**
 
