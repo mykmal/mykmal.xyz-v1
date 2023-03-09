@@ -2,12 +2,12 @@
 hidemeta: true
 ---
 
-### Peer-reviewed papers
+### Peer-reviewed papers and preprints
 
 1. 
-    > Identifying genes with tissue-specific patterns of genetic regulation.  
-    > **M. M. Malakhov**, B. Dai, X. T. Shen, W. Pan. *In preparation*.  
-    > [[code]](https://github.com/MykMal/drab)
+    > A bootstrap model comparison test for identifying genes with context-specific patterns of genetic regulation.  
+    > **M. M. Malakhov**, B. Dai, X. T. Shen, W. Pan. *bioRxiv* (2023).  
+    > doi: [10.1101/2023.03.06.531446](https://doi.org/10.1101/2023.03.06.531446) | [[pdf]](https://www.biorxiv.org/content/10.1101/2023.03.06.531446.full.pdf) | [[code]](https://github.com/MykMal/drab)
 1. 
     > Accounting for nonlinear effects of gene expression identifies additional associated genes in transcriptome-wide association studies.  
     > Z. Lin, H. Xue, **M. M. Malakhov**, K. A. Knutson, W. Pan. *Human Molecular Genetics*. **31**, 2462–2470 (2022).  
